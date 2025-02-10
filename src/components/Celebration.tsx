@@ -5,7 +5,7 @@ import { FloatingElements } from "./floatinghearts";
 
 const mediaItems = [
   { type: "video", src: "/photo/kaldag.mp4" },
-  { type: "video", src: "/photo/kaldagan.mp4" },
+ { type: "photo", src: "/photo/weup.jpeg" },
   { type: "video", src: "/photo/happy.mp4" },
   { type: "video", src: "/photo/mengmeng.mp4" },
   { type: "video", src: "/photo/kiddo.mp4" },

@@ -240,6 +240,7 @@ const Envelope: React.FC<EnvelopeProps> = () => {
                             width: "200px",
                             height: "200px",
                             scale: "1.5",
+                            pointerEvents: "none",
                           }}
                         />
                       </motion.div>
@@ -276,6 +277,7 @@ const Envelope: React.FC<EnvelopeProps> = () => {
                             width: "200px",
                             height: "200px",
                             scale: "1.5",
+                            pointerEvents: "none",
                           }}
                         />
                       </motion.div>
